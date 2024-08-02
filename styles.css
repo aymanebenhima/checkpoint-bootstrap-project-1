@@ -1,0 +1,44 @@
+    .navbar-brand {
+      font-family: 'Brush Script MT', cursive;
+      font-size: 1.75rem;
+    }
+    .hero {
+      background: url('https://images.unsplash.com/photo-1600891964599-f61ba0e24092?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGZvb2QlMjBkaXNofGVufDB8fHx8MTY4ODAxNTQzMw&ixlib=rb-1.2.1&q=80&w=1080') no-repeat center center;
+      background-size: cover;
+      color: white;
+      text-align: center;
+      padding: 150px 0;
+    }
+    .hero h1 {
+      font-size: 4rem;
+      margin-bottom: 20px;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    }
+    .hero button {
+      font-size: 1.25rem;
+      padding: 10px 30px;
+    }
+    .menu .card {
+      margin-bottom: 30px;
+    }
+    .about-us img {
+      border-radius: 10px;
+    }
+    .about-us h2 {
+      margin-bottom: 20px;
+    }
+    .contact h2 {
+      margin-bottom: 30px;
+    }
+    .footer {
+      background-color: #343a40;
+      color: white;
+      padding: 20px 0;
+    }
+    .footer p, .footer a {
+      margin: 0;
+      color: white;
+    }
+    .footer a {
+      margin-right: 15px;
+    }
